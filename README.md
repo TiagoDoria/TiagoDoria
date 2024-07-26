@@ -4,7 +4,7 @@ Desenvolvedor .NET com mais de 4 anos de experiência no desenvolvimento e manut
 
 ## EXPERIÊNCIA
 
-### Grupo Recursos, Salvador(Preesncial)— Desenvolvedor .NET
+### Grupo Recursos, Salvador(Presencial)— Desenvolvedor .NET
  Maio/2024 - atual
 Responsável por realizar a sustentação e implementação de novas funcionalidades do sistema principal da empresa para prefeitura de Salvador, corrigindo bugs, melhorias e refatorando código para garantir maior desempenho. Tecnologias utilizadas: C3, Webforms, SQL Server.
 
