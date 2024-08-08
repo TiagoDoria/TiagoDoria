@@ -6,7 +6,7 @@ Desenvolvedor .NET com mais de 4 anos de experiência no desenvolvimento e manut
 
 ### Grupo Recursos, Salvador(Presencial)— Desenvolvedor .NET
  Maio/2024 - atual
-Responsável por realizar a sustentação e implementação de novas funcionalidades do sistema principal da empresa para prefeitura de Salvador, corrigindo bugs, melhorias e refatorando código para garantir maior desempenho. Tecnologias utilizadas: C3, Webforms, SQL Server.
+Sou responsável por recriar o sistema principal da empresa para a prefeitura de Salvador, utilizando tecnologias modernas. Estou implementando uma nova versão do sistema com .NET Core 8, micro serviços, RabbitMQ e Docker, enquanto dou sustentação à versão atual, que utiliza C#, Webforms e SQL Server. Além disso, sou responsável pelo acompanhamento e auxílio de um desenvolvedor júnior. Costumo atuar diretamente com analistas de banco de dados e de negócio para entender as necessidades do cliente e as regras de negócio. Meu trabalho inclui a correção de bugs, implementação de melhorias e refatoração de código para garantir maior desempenho e escalabilidade.
 
 ### Fundação Zerrenner, São Paulo(Remoto)— Desenvolvedor .NET
  Julho/2021 - Dezembro/2023
